@@ -1,0 +1,14 @@
+C:\Users\LionelTidjon\040---microsoft\Microsoft Console Serial Read - code\HAPTICORE .NET Library 3.14.0\Example\WinFormsExampleApp\obj\Debug\HapticoreExampleApp.MainForm.resources
+C:\Users\LionelTidjon\040---microsoft\Microsoft Console Serial Read - code\HAPTICORE .NET Library 3.14.0\Example\WinFormsExampleApp\obj\Debug\WinFormsExampleApp.Properties.Resources.resources
+C:\Users\LionelTidjon\040---microsoft\Microsoft Console Serial Read - code\HAPTICORE .NET Library 3.14.0\Example\WinFormsExampleApp\obj\Debug\WinFormsExampleApp.csproj.GenerateResource.cache
+C:\Users\LionelTidjon\040---microsoft\Microsoft Console Serial Read - code\HAPTICORE .NET Library 3.14.0\Example\WinFormsExampleApp\obj\Debug\WinFormsExampleApp.csproj.CoreCompileInputs.cache
+C:\Users\LionelTidjon\040---microsoft\Microsoft Console Serial Read - code\HAPTICORE .NET Library 3.14.0\Example\WinFormsExampleApp\bin\Debug\logo.png
+C:\Users\LionelTidjon\040---microsoft\Microsoft Console Serial Read - code\HAPTICORE .NET Library 3.14.0\Example\WinFormsExampleApp\bin\Debug\WinFormsExampleApp.exe.config
+C:\Users\LionelTidjon\040---microsoft\Microsoft Console Serial Read - code\HAPTICORE .NET Library 3.14.0\Example\WinFormsExampleApp\bin\Debug\WinFormsExampleApp.exe
+C:\Users\LionelTidjon\040---microsoft\Microsoft Console Serial Read - code\HAPTICORE .NET Library 3.14.0\Example\WinFormsExampleApp\bin\Debug\WinFormsExampleApp.pdb
+C:\Users\LionelTidjon\040---microsoft\Microsoft Console Serial Read - code\HAPTICORE .NET Library 3.14.0\Example\WinFormsExampleApp\bin\Debug\HapticoreLibrary.dll
+C:\Users\LionelTidjon\040---microsoft\Microsoft Console Serial Read - code\HAPTICORE .NET Library 3.14.0\Example\WinFormsExampleApp\obj\Debug\WinFormsExampleApp.csproj.CopyComplete
+C:\Users\LionelTidjon\040---microsoft\Microsoft Console Serial Read - code\HAPTICORE .NET Library 3.14.0\Example\WinFormsExampleApp\obj\Debug\WinFormsExampleApp.exe
+C:\Users\LionelTidjon\040---microsoft\Microsoft Console Serial Read - code\HAPTICORE .NET Library 3.14.0\Example\WinFormsExampleApp\obj\Debug\WinFormsExampleApp.pdb
+C:\Users\LionelTidjon\040---microsoft\Microsoft Console Serial Read - code\HAPTICORE .NET Library 3.14.0\Example\WinFormsExampleApp\obj\Debug\HapticoreExampleApp.Form1.resources
+C:\Users\LionelTidjon\040---microsoft\Microsoft Console Serial Read - code\HAPTICORE .NET Library 3.14.0\Example\WinFormsExampleApp\obj\Debug\WinFormsExampleApp.csproj.AssemblyReference.cache
